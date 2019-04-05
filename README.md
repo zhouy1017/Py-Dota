@@ -1,5 +1,5 @@
 # Py-Dota
-This project aims to calculate Fantasy Scores for all completed DPC tournaments to provide insights for choosing rosters for upcoming matches.
+This project aims to calculate Fantasy Scores for all completed DPC tournaments (during 2018-19 season) to provide insights for choosing rosters for upcoming matches.
 
 The calculation formula is based on DPC app by Valve.
 
