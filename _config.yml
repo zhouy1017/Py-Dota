@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-url : https://zhouy1017.github.io/Py-Dota/
-baseurl: /
+url : "https://zhouy1017.github.io/Py-Dota/"
+baseurl: "Py-Dota"
+permalink: /
