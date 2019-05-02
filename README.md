@@ -6,6 +6,7 @@ As shown in the app:
 <p align="center">
   <img src="https://github.com/zhouy1017/Py-Dota/blob/master/DPC_Screenshot.png"  width="250" height="550">
 </p>
+
 ## Notes:
 1.Since the term "Teamfight Participation" is not explicitly defined by Valve, the formula I used here is:
 Teamfight Participation = (The kills of the player + The assists of the player)/The total kills of the team.
