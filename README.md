@@ -21,17 +21,17 @@ Teamfight Participation = (The kills of the player + The assists of the player)/
  Support: The player gets an average last hit at 10 mins lower than 20.
 
 #  Reuslts
-[Main Evnet Mid](https://github.com/zhouy1017/Py-Dota/blob/master/mid_main.html)
+[Main Evnet Mid](https://github.com/zhouy1017/Py-Dota/blob/master/mid_main.md)
 
-[Main Evnet Sup](https://github.com/zhouy1017/Py-Dota/blob/master/sup_main.html)
+[Main Evnet Sup](https://github.com/zhouy1017/Py-Dota/blob/master/sup_main.md)
 
-[Main Evnet Core](https://github.com/zhouy1017/Py-Dota/blob/master/core_main.html)
+[Main Evnet Core](https://github.com/zhouy1017/Py-Dota/blob/master/core_main.md)
 
-[Qualifier Mid](https://github.com/zhouy1017/Py-Dota/blob/master/mid_qu.html)
+[Qualifier Mid](https://github.com/zhouy1017/Py-Dota/blob/master/mid_qu.md)
 
-[Qualifier Sup](https://github.com/zhouy1017/Py-Dota/blob/master/sup_qu.html)
+[Qualifier Sup](https://github.com/zhouy1017/Py-Dota/blob/master/sup_qu.md)
 
-[Qualifier Core](https://github.com/zhouy1017/Py-Dota/blob/master/core_qu.html)
+[Qualifier Core](https://github.com/zhouy1017/Py-Dota/blob/master/core_qu.md)
 
 
 # Sources
