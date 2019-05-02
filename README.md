@@ -9,6 +9,7 @@ As shown in the app:
 
 ## Notes:
 1.Since the term "Teamfight Participation" is not explicitly defined by Valve, the formula I used here is:
+
 Teamfight Participation = (The kills of the player + The assists of the player)/The total kills of the team.
 
 2.Since the roles of a player is not accessible directly from DPC app, the role of players is classified by following rules:
