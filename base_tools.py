@@ -74,6 +74,27 @@ def differed_id(league_name):
     if league_name == "Bucharest Minor":
         links_b = links_creater("https://www.dotabuff.com/esports/leagues/10452-the-bucharest-minor-2019/matches?original_slug=10452-the-bucharest-minor-2019",7)
         league = League('Bucharest Minor',links_b,"2019-01-08")
+    if league_name == "DreamLeague S10":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10326-dreamleague-season-10/matches?original_slug=10326-dreamleague-season-10",8)
+        league = League('DreamLeague S10',links_b,"2018-10-28")    
+    if league_name == "DreamLeague S11":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10681-dreamleague-season-11/matches?original_slug=10681-dreamleague-season-11",23)
+        league = League('DreamLeague S11',links_b,"2019-03-12")  
+    if league_name == "SL-i Minor":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10733-starladder-imbatv-dota2-minor/matches?original_slug=10733-starladder-imbatv-dota2-minor",7)
+        league = League('SL-i Minor',links_b,"2019-03-05")  
+    if league_name == "Kuala Lumpur Major":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10296-the-kuala-lumpur-major/matches?original_slug=10296-the-kuala-lumpur-major",20)
+        league = League('Kuala Lumpur Major',links_b,"2018-11-07")  
+    if league_name == "Chongqing Major":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10482-the-chongqing-major/matches?original_slug=10482-the-chongqing-major",15)
+        league = League('Chongqing Major',links_b,"2019-01-17")    
+    if league_name == "Paris Major":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10810-mdl-disneyland-paris-major/matches?original_slug=10810-mdl-disneyland-paris-major",12)
+        league = League('Paris Major',links_b,"2019-05-02")   
+    if league_name == "PIT Minor":
+        links_b = links_creater("https://www.dotabuff.com/esports/leagues/10869-amd-sapphire-dota-pit-minor-2019/matches?original_slug=10869-amd-sapphire-dota-pit-minor-2019",6)
+        league = League('PIT Minor',links_b,"2019-04-20")     
     
     table,qualifier,main_event = get_matchid_of_league(league)
     return table, qualifier, main_event
