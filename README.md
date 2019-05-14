@@ -20,7 +20,7 @@ Teamfight Participation = (The kills of the player + The assists of the player)/
  
  Support: The player gets an average last hit at 10 mins lower than 20.
 
-#  Reuslts Updated:2019-05-01
+#  Reuslts Updated:2019-05-14
 [Main Evnet Mid](https://github.com/zhouy1017/Py-Dota/blob/master/mid_main.md)
 
 [Main Evnet Sup](https://github.com/zhouy1017/Py-Dota/blob/master/sup_main.md)
