@@ -24,13 +24,6 @@
       <td>13.572629</td>
     </tr>
     <tr>
-      <th>Limmp</th>
-      <td>135.417211</td>
-      <td>8</td>
-      <td>10</td>
-      <td>13.541721</td>
-    </tr>
-    <tr>
       <th>Chessie</th>
       <td>143.815581</td>
       <td>8</td>
@@ -39,10 +32,10 @@
     </tr>
     <tr>
       <th>Abed</th>
-      <td>560.496207</td>
-      <td>33</td>
-      <td>44</td>
-      <td>12.738550</td>
+      <td>622.614820</td>
+      <td>36</td>
+      <td>50</td>
+      <td>12.452296</td>
     </tr>
     <tr>
       <th>201594424</th>
@@ -50,6 +43,13 @@
       <td>8</td>
       <td>17</td>
       <td>12.368497</td>
+    </tr>
+    <tr>
+      <th>Nisha</th>
+      <td>194.908305</td>
+      <td>3</td>
+      <td>16</td>
+      <td>12.181769</td>
     </tr>
     <tr>
       <th>J E I M A R I</th>
@@ -60,10 +60,24 @@
     </tr>
     <tr>
       <th>小可</th>
-      <td>273.152632</td>
-      <td>25</td>
-      <td>23</td>
-      <td>11.876201</td>
+      <td>503.570307</td>
+      <td>28</td>
+      <td>42</td>
+      <td>11.989769</td>
+    </tr>
+    <tr>
+      <th>SumaiL</th>
+      <td>795.117736</td>
+      <td>36</td>
+      <td>67</td>
+      <td>11.867429</td>
+    </tr>
+    <tr>
+      <th>Limmp</th>
+      <td>236.733177</td>
+      <td>11</td>
+      <td>20</td>
+      <td>11.836659</td>
     </tr>
     <tr>
       <th>fn</th>
@@ -78,13 +92,6 @@
       <td>3</td>
       <td>19</td>
       <td>11.775297</td>
-    </tr>
-    <tr>
-      <th>SumaiL</th>
-      <td>604.387131</td>
-      <td>33</td>
-      <td>52</td>
-      <td>11.622829</td>
     </tr>
     <tr>
       <th>AhJit</th>
@@ -123,10 +130,10 @@
     </tr>
     <tr>
       <th>No[o]ne-</th>
-      <td>718.726987</td>
-      <td>33</td>
-      <td>65</td>
-      <td>11.057338</td>
+      <td>851.056596</td>
+      <td>36</td>
+      <td>76</td>
+      <td>11.198113</td>
     </tr>
     <tr>
       <th>k`wonderkid</th>
@@ -143,13 +150,6 @@
       <td>10.916062</td>
     </tr>
     <tr>
-      <th>Fata</th>
-      <td>665.673364</td>
-      <td>19</td>
-      <td>61</td>
-      <td>10.912678</td>
-    </tr>
-    <tr>
       <th>Xm</th>
       <td>139.984848</td>
       <td>8</td>
@@ -158,10 +158,10 @@
     </tr>
     <tr>
       <th>Ori</th>
-      <td>615.121616</td>
-      <td>36</td>
-      <td>58</td>
-      <td>10.605545</td>
+      <td>750.845442</td>
+      <td>39</td>
+      <td>70</td>
+      <td>10.726363</td>
     </tr>
     <tr>
       <th>Chris Luck</th>
@@ -169,6 +169,13 @@
       <td>3</td>
       <td>14</td>
       <td>10.577958</td>
+    </tr>
+    <tr>
+      <th>Fata</th>
+      <td>807.974147</td>
+      <td>22</td>
+      <td>77</td>
+      <td>10.493171</td>
     </tr>
     <tr>
       <th>Bryle</th>
@@ -179,10 +186,10 @@
     </tr>
     <tr>
       <th>MidOne</th>
-      <td>521.090752</td>
-      <td>33</td>
-      <td>52</td>
-      <td>10.020976</td>
+      <td>707.929980</td>
+      <td>36</td>
+      <td>68</td>
+      <td>10.410735</td>
     </tr>
     <tr>
       <th>qojqva</th>
@@ -206,6 +213,13 @@
       <td>9.760359</td>
     </tr>
     <tr>
+      <th>Moonn</th>
+      <td>214.529957</td>
+      <td>11</td>
+      <td>22</td>
+      <td>9.751362</td>
+    </tr>
+    <tr>
       <th>G</th>
       <td>106.954109</td>
       <td>3</td>
@@ -220,11 +234,11 @@
       <td>9.598636</td>
     </tr>
     <tr>
-      <th>Topson</th>
-      <td>180.674326</td>
-      <td>6</td>
-      <td>19</td>
-      <td>9.509175</td>
+      <th>4dr &lt;3 Déia</th>
+      <td>66.314805</td>
+      <td>3</td>
+      <td>7</td>
+      <td>9.473544</td>
     </tr>
     <tr>
       <th>Dendi</th>
@@ -234,13 +248,6 @@
       <td>9.386259</td>
     </tr>
     <tr>
-      <th>一</th>
-      <td>270.088584</td>
-      <td>11</td>
-      <td>29</td>
-      <td>9.313399</td>
-    </tr>
-    <tr>
       <th>| Draken-_-</th>
       <td>74.256560</td>
       <td>20</td>
@@ -248,25 +255,32 @@
       <td>9.282070</td>
     </tr>
     <tr>
-      <th>MATUMBAMAN</th>
-      <td>166.836921</td>
-      <td>28</td>
-      <td>18</td>
-      <td>9.268718</td>
+      <th>一</th>
+      <td>354.069256</td>
+      <td>14</td>
+      <td>39</td>
+      <td>9.078699</td>
     </tr>
     <tr>
       <th>w33</th>
-      <td>240.438344</td>
-      <td>33</td>
-      <td>26</td>
-      <td>9.247629</td>
+      <td>299.826142</td>
+      <td>36</td>
+      <td>34</td>
+      <td>8.818416</td>
     </tr>
     <tr>
-      <th>Moonn</th>
-      <td>119.540327</td>
-      <td>8</td>
-      <td>13</td>
-      <td>9.195410</td>
+      <th>Topson</th>
+      <td>277.017832</td>
+      <td>9</td>
+      <td>32</td>
+      <td>8.656807</td>
+    </tr>
+    <tr>
+      <th>MATUMBAMAN</th>
+      <td>381.118338</td>
+      <td>31</td>
+      <td>45</td>
+      <td>8.469296</td>
     </tr>
     <tr>
       <th>YawaR</th>
@@ -284,10 +298,10 @@
     </tr>
     <tr>
       <th>Ryoya</th>
-      <td>158.380459</td>
-      <td>6</td>
-      <td>19</td>
-      <td>8.335814</td>
+      <td>210.375363</td>
+      <td>9</td>
+      <td>25</td>
+      <td>8.415015</td>
     </tr>
     <tr>
       <th>iAnnihilate</th>
@@ -302,6 +316,13 @@
       <td>8</td>
       <td>8</td>
       <td>7.881513</td>
+    </tr>
+    <tr>
+      <th>kodos-</th>
+      <td>38.235446</td>
+      <td>3</td>
+      <td>5</td>
+      <td>7.647089</td>
     </tr>
     <tr>
       <th>hFn k3</th>

@@ -24,18 +24,18 @@
       <td>14.374620</td>
     </tr>
     <tr>
-      <th>Ameame</th>
-      <td>452.315169</td>
-      <td>33</td>
-      <td>36</td>
-      <td>12.564310</td>
-    </tr>
-    <tr>
       <th>Gabbi</th>
       <td>288.026281</td>
       <td>25</td>
       <td>23</td>
       <td>12.522882</td>
+    </tr>
+    <tr>
+      <th>Miracle-</th>
+      <td>424.010521</td>
+      <td>11</td>
+      <td>34</td>
+      <td>12.470898</td>
     </tr>
     <tr>
       <th>NeverEnd</th>
@@ -45,18 +45,11 @@
       <td>12.428745</td>
     </tr>
     <tr>
-      <th>DJ</th>
-      <td>160.615080</td>
-      <td>5</td>
-      <td>13</td>
-      <td>12.355006</td>
-    </tr>
-    <tr>
       <th>Paparazi灬</th>
-      <td>708.815717</td>
-      <td>36</td>
-      <td>58</td>
-      <td>12.220961</td>
+      <td>856.051286</td>
+      <td>39</td>
+      <td>70</td>
+      <td>12.229304</td>
     </tr>
     <tr>
       <th>Madara</th>
@@ -73,11 +66,25 @@
       <td>12.136026</td>
     </tr>
     <tr>
+      <th>Ameame</th>
+      <td>664.285708</td>
+      <td>36</td>
+      <td>55</td>
+      <td>12.077922</td>
+    </tr>
+    <tr>
+      <th>Ace</th>
+      <td>925.153254</td>
+      <td>22</td>
+      <td>77</td>
+      <td>12.014977</td>
+    </tr>
+    <tr>
       <th>rtz</th>
-      <td>624.168691</td>
-      <td>33</td>
-      <td>52</td>
-      <td>12.003244</td>
+      <td>804.474704</td>
+      <td>36</td>
+      <td>67</td>
+      <td>12.007085</td>
     </tr>
     <tr>
       <th>Fervian</th>
@@ -87,6 +94,13 @@
       <td>11.905877</td>
     </tr>
     <tr>
+      <th>RAMZeS666</th>
+      <td>898.748361</td>
+      <td>36</td>
+      <td>76</td>
+      <td>11.825636</td>
+    </tr>
+    <tr>
       <th>Daxak</th>
       <td>353.270364</td>
       <td>11</td>
@@ -94,11 +108,11 @@
       <td>11.775679</td>
     </tr>
     <tr>
-      <th>RAMZeS666</th>
-      <td>762.072206</td>
-      <td>33</td>
-      <td>65</td>
-      <td>11.724188</td>
+      <th>DJ</th>
+      <td>220.193448</td>
+      <td>8</td>
+      <td>19</td>
+      <td>11.589129</td>
     </tr>
     <tr>
       <th>Aventador</th>
@@ -106,20 +120,6 @@
       <td>20</td>
       <td>11</td>
       <td>11.583964</td>
-    </tr>
-    <tr>
-      <th>Ace</th>
-      <td>706.039260</td>
-      <td>19</td>
-      <td>61</td>
-      <td>11.574414</td>
-    </tr>
-    <tr>
-      <th>AhJit</th>
-      <td>148.144893</td>
-      <td>8</td>
-      <td>13</td>
-      <td>11.395761</td>
     </tr>
     <tr>
       <th>Nisha</th>
@@ -150,6 +150,13 @@
       <td>10.618162</td>
     </tr>
     <tr>
+      <th>AhJit</th>
+      <td>232.822603</td>
+      <td>11</td>
+      <td>22</td>
+      <td>10.582846</td>
+    </tr>
+    <tr>
       <th>Taiga</th>
       <td>177.925748</td>
       <td>3</td>
@@ -164,6 +171,20 @@
       <td>10.193562</td>
     </tr>
     <tr>
+      <th>ana</th>
+      <td>132.203220</td>
+      <td>3</td>
+      <td>13</td>
+      <td>10.169478</td>
+    </tr>
+    <tr>
+      <th>hFn k3</th>
+      <td>254.203745</td>
+      <td>16</td>
+      <td>25</td>
+      <td>10.168150</td>
+    </tr>
+    <tr>
       <th>Sammyboy</th>
       <td>111.739503</td>
       <td>3</td>
@@ -172,10 +193,10 @@
     </tr>
     <tr>
       <th>MP</th>
-      <td>446.442723</td>
-      <td>33</td>
-      <td>44</td>
-      <td>10.146426</td>
+      <td>494.825130</td>
+      <td>36</td>
+      <td>50</td>
+      <td>9.896503</td>
     </tr>
     <tr>
       <th>Resolut1on</th>
@@ -192,6 +213,20 @@
       <td>9.855411</td>
     </tr>
     <tr>
+      <th>leo</th>
+      <td>68.448194</td>
+      <td>3</td>
+      <td>7</td>
+      <td>9.778313</td>
+    </tr>
+    <tr>
+      <th>Lelis</th>
+      <td>68.220410</td>
+      <td>3</td>
+      <td>7</td>
+      <td>9.745773</td>
+    </tr>
+    <tr>
       <th>MSS-</th>
       <td>193.981785</td>
       <td>11</td>
@@ -199,25 +234,11 @@
       <td>9.699089</td>
     </tr>
     <tr>
-      <th>Miracle-</th>
-      <td>67.586173</td>
-      <td>8</td>
-      <td>7</td>
-      <td>9.655168</td>
-    </tr>
-    <tr>
       <th>eGo</th>
       <td>259.851922</td>
       <td>23</td>
       <td>27</td>
       <td>9.624145</td>
-    </tr>
-    <tr>
-      <th>hFn k3</th>
-      <td>163.585767</td>
-      <td>13</td>
-      <td>17</td>
-      <td>9.622692</td>
     </tr>
     <tr>
       <th>xiao8</th>
@@ -234,13 +255,6 @@
       <td>9.594695</td>
     </tr>
     <tr>
-      <th>old eLeVeN</th>
-      <td>271.500864</td>
-      <td>11</td>
-      <td>29</td>
-      <td>9.362099</td>
-    </tr>
-    <tr>
       <th>Faith_bian</th>
       <td>252.422422</td>
       <td>23</td>
@@ -255,6 +269,20 @@
       <td>9.299013</td>
     </tr>
     <tr>
+      <th>dream`</th>
+      <td>46.494536</td>
+      <td>3</td>
+      <td>5</td>
+      <td>9.298907</td>
+    </tr>
+    <tr>
+      <th>ragingpotato</th>
+      <td>83.483950</td>
+      <td>3</td>
+      <td>9</td>
+      <td>9.275994</td>
+    </tr>
+    <tr>
       <th>AtuunN</th>
       <td>74.184786</td>
       <td>20</td>
@@ -263,10 +291,10 @@
     </tr>
     <tr>
       <th>MinD_ContRoL</th>
-      <td>306.070332</td>
-      <td>33</td>
-      <td>34</td>
-      <td>9.002069</td>
+      <td>551.334045</td>
+      <td>36</td>
+      <td>61</td>
+      <td>9.038263</td>
     </tr>
     <tr>
       <th>k1 el cacha viejas de 26</th>
@@ -276,18 +304,18 @@
       <td>8.975905</td>
     </tr>
     <tr>
-      <th>Ceb</th>
-      <td>169.651434</td>
-      <td>6</td>
-      <td>19</td>
-      <td>8.929023</td>
-    </tr>
-    <tr>
       <th>Sneyking</th>
       <td>285.643941</td>
       <td>14</td>
       <td>32</td>
       <td>8.926373</td>
+    </tr>
+    <tr>
+      <th>old eLeVeN</th>
+      <td>348.115513</td>
+      <td>14</td>
+      <td>39</td>
+      <td>8.926039</td>
     </tr>
     <tr>
       <th>Kōtarō</th>
@@ -304,6 +332,13 @@
       <td>8.790587</td>
     </tr>
     <tr>
+      <th>old chicken</th>
+      <td>341.847731</td>
+      <td>14</td>
+      <td>39</td>
+      <td>8.765326</td>
+    </tr>
+    <tr>
       <th>Crystallize</th>
       <td>253.459874</td>
       <td>16</td>
@@ -311,18 +346,18 @@
       <td>8.739996</td>
     </tr>
     <tr>
-      <th>old chicken</th>
-      <td>251.043187</td>
-      <td>11</td>
-      <td>29</td>
-      <td>8.656662</td>
-    </tr>
-    <tr>
       <th>Sylar</th>
       <td>129.687490</td>
       <td>25</td>
       <td>15</td>
       <td>8.645833</td>
+    </tr>
+    <tr>
+      <th>Ceb</th>
+      <td>276.620677</td>
+      <td>9</td>
+      <td>32</td>
+      <td>8.644396</td>
     </tr>
     <tr>
       <th>Boxi</th>
@@ -374,6 +409,13 @@
       <td>8.273307</td>
     </tr>
     <tr>
+      <th>zai</th>
+      <td>562.333846</td>
+      <td>36</td>
+      <td>68</td>
+      <td>8.269615</td>
+    </tr>
+    <tr>
       <th>Fbz</th>
       <td>221.781136</td>
       <td>9</td>
@@ -381,18 +423,25 @@
       <td>8.214116</td>
     </tr>
     <tr>
-      <th>iceiceice</th>
-      <td>356.651030</td>
-      <td>33</td>
-      <td>44</td>
-      <td>8.105705</td>
+      <th>Brax</th>
+      <td>138.636507</td>
+      <td>6</td>
+      <td>17</td>
+      <td>8.155089</td>
     </tr>
     <tr>
-      <th>zai</th>
-      <td>420.111043</td>
-      <td>33</td>
-      <td>52</td>
-      <td>8.079059</td>
+      <th>33</th>
+      <td>492.681976</td>
+      <td>17</td>
+      <td>61</td>
+      <td>8.076754</td>
+    </tr>
+    <tr>
+      <th>iceiceice</th>
+      <td>400.024081</td>
+      <td>36</td>
+      <td>50</td>
+      <td>8.000482</td>
     </tr>
     <tr>
       <th>4dr &lt;3 Déia</th>
@@ -402,25 +451,25 @@
       <td>7.903467</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>350.348629</td>
-      <td>14</td>
-      <td>45</td>
-      <td>7.785525</td>
-    </tr>
-    <tr>
       <th>Yang</th>
-      <td>448.596963</td>
-      <td>36</td>
-      <td>58</td>
-      <td>7.734430</td>
+      <td>544.829584</td>
+      <td>39</td>
+      <td>70</td>
+      <td>7.783280</td>
     </tr>
     <tr>
       <th>s4</th>
-      <td>400.667407</td>
-      <td>33</td>
-      <td>52</td>
-      <td>7.705142</td>
+      <td>517.794792</td>
+      <td>36</td>
+      <td>67</td>
+      <td>7.728280</td>
+    </tr>
+    <tr>
+      <th>9pasha</th>
+      <td>572.923959</td>
+      <td>36</td>
+      <td>76</td>
+      <td>7.538473</td>
     </tr>
     <tr>
       <th>MoonMeander</th>
@@ -430,18 +479,25 @@
       <td>7.480934</td>
     </tr>
     <tr>
-      <th>9pasha</th>
-      <td>484.340118</td>
-      <td>33</td>
-      <td>65</td>
-      <td>7.451386</td>
-    </tr>
-    <tr>
       <th>Flyby</th>
       <td>81.884039</td>
       <td>3</td>
       <td>11</td>
       <td>7.444004</td>
+    </tr>
+    <tr>
+      <th>EternaLEnVy</th>
+      <td>103.049859</td>
+      <td>6</td>
+      <td>14</td>
+      <td>7.360704</td>
+    </tr>
+    <tr>
+      <th>Meracle-</th>
+      <td>72.126130</td>
+      <td>3</td>
+      <td>10</td>
+      <td>7.212613</td>
     </tr>
     <tr>
       <th>Universe</th>
@@ -458,11 +514,11 @@
       <td>7.203720</td>
     </tr>
     <tr>
-      <th>EternaLEnVy</th>
-      <td>56.512610</td>
+      <th>Zfreek</th>
+      <td>71.725625</td>
       <td>3</td>
-      <td>8</td>
-      <td>7.064076</td>
+      <td>10</td>
+      <td>7.172562</td>
     </tr>
     <tr>
       <th>KheZu</th>
@@ -472,11 +528,11 @@
       <td>6.935340</td>
     </tr>
     <tr>
-      <th>Brax</th>
-      <td>76.161456</td>
-      <td>3</td>
-      <td>11</td>
-      <td>6.923769</td>
+      <th>Chalice</th>
+      <td>381.425139</td>
+      <td>36</td>
+      <td>55</td>
+      <td>6.935003</td>
     </tr>
     <tr>
       <th>ryOyr</th>
@@ -491,13 +547,6 @@
       <td>16</td>
       <td>29</td>
       <td>6.801641</td>
-    </tr>
-    <tr>
-      <th>Chalice</th>
-      <td>240.095975</td>
-      <td>33</td>
-      <td>36</td>
-      <td>6.669333</td>
     </tr>
     <tr>
       <th>Xxs</th>
@@ -529,10 +578,17 @@
     </tr>
     <tr>
       <th>kpii</th>
-      <td>82.381497</td>
-      <td>8</td>
-      <td>13</td>
-      <td>6.337038</td>
+      <td>138.668235</td>
+      <td>11</td>
+      <td>22</td>
+      <td>6.303102</td>
+    </tr>
+    <tr>
+      <th>monkeys-forever</th>
+      <td>96.862897</td>
+      <td>11</td>
+      <td>16</td>
+      <td>6.053931</td>
     </tr>
     <tr>
       <th>Ghostik</th>
@@ -563,13 +619,6 @@
       <td>5.948054</td>
     </tr>
     <tr>
-      <th>monkeys-forever</th>
-      <td>35.252621</td>
-      <td>8</td>
-      <td>6</td>
-      <td>5.875437</td>
-    </tr>
-    <tr>
       <th>Sword</th>
       <td>71.732339</td>
       <td>6</td>
@@ -578,10 +627,10 @@
     </tr>
     <tr>
       <th>tavo</th>
-      <td>135.057289</td>
-      <td>33</td>
-      <td>26</td>
-      <td>5.194511</td>
+      <td>181.509800</td>
+      <td>36</td>
+      <td>34</td>
+      <td>5.338524</td>
     </tr>
     <tr>
       <th>Emperor Crimson</th>
@@ -589,6 +638,13 @@
       <td>3</td>
       <td>2</td>
       <td>5.175067</td>
+    </tr>
+    <tr>
+      <th>Maden</th>
+      <td>23.530918</td>
+      <td>3</td>
+      <td>5</td>
+      <td>4.706184</td>
     </tr>
   </tbody>
 </table>

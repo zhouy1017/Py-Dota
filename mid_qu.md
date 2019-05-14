@@ -11,10 +11,10 @@
   <tbody>
     <tr>
       <th>Miracle-</th>
-      <td>173.430550</td>
-      <td>3</td>
-      <td>12</td>
-      <td>14.452546</td>
+      <td>188.121556</td>
+      <td>6</td>
+      <td>13</td>
+      <td>14.470889</td>
     </tr>
     <tr>
       <th>Monet</th>
@@ -80,11 +80,18 @@
       <td>12.306829</td>
     </tr>
     <tr>
+      <th>w33</th>
+      <td>385.261934</td>
+      <td>40</td>
+      <td>32</td>
+      <td>12.039435</td>
+    </tr>
+    <tr>
       <th>Chessie</th>
-      <td>741.807699</td>
+      <td>637.104072</td>
       <td>21</td>
-      <td>61</td>
-      <td>12.160782</td>
+      <td>53</td>
+      <td>12.020832</td>
     </tr>
     <tr>
       <th>Limmp</th>
@@ -101,18 +108,11 @@
       <td>11.898058</td>
     </tr>
     <tr>
-      <th>w33</th>
-      <td>430.293181</td>
-      <td>40</td>
-      <td>37</td>
-      <td>11.629545</td>
-    </tr>
-    <tr>
       <th>No[o]ne-</th>
-      <td>485.874506</td>
+      <td>408.723887</td>
       <td>22</td>
-      <td>42</td>
-      <td>11.568441</td>
+      <td>35</td>
+      <td>11.677825</td>
     </tr>
     <tr>
       <th>YawaR</th>
@@ -120,13 +120,6 @@
       <td>5</td>
       <td>36</td>
       <td>11.567471</td>
-    </tr>
-    <tr>
-      <th>MagicaL</th>
-      <td>697.079113</td>
-      <td>30</td>
-      <td>61</td>
-      <td>11.427526</td>
     </tr>
     <tr>
       <th>ThuG-</th>
@@ -143,25 +136,11 @@
       <td>11.355633</td>
     </tr>
     <tr>
-      <th>Afoninje</th>
-      <td>749.076753</td>
-      <td>31</td>
-      <td>66</td>
-      <td>11.349648</td>
-    </tr>
-    <tr>
-      <th>hFn k3</th>
-      <td>124.502732</td>
-      <td>10</td>
-      <td>11</td>
-      <td>11.318430</td>
-    </tr>
-    <tr>
-      <th>| Draken-_-</th>
-      <td>698.731632</td>
-      <td>70</td>
-      <td>62</td>
-      <td>11.269865</td>
+      <th>Nix</th>
+      <td>259.924830</td>
+      <td>24</td>
+      <td>23</td>
+      <td>11.301080</td>
     </tr>
     <tr>
       <th>Daxak</th>
@@ -185,6 +164,20 @@
       <td>11.233279</td>
     </tr>
     <tr>
+      <th>J E I M A R I</th>
+      <td>583.585027</td>
+      <td>70</td>
+      <td>52</td>
+      <td>11.222789</td>
+    </tr>
+    <tr>
+      <th>Afoninje</th>
+      <td>605.987323</td>
+      <td>31</td>
+      <td>54</td>
+      <td>11.221987</td>
+    </tr>
+    <tr>
       <th>Fbz</th>
       <td>56.053018</td>
       <td>5</td>
@@ -199,6 +192,20 @@
       <td>11.151680</td>
     </tr>
     <tr>
+      <th>Fata</th>
+      <td>511.298006</td>
+      <td>18</td>
+      <td>46</td>
+      <td>11.115174</td>
+    </tr>
+    <tr>
+      <th>| Draken-_-</th>
+      <td>598.371692</td>
+      <td>70</td>
+      <td>54</td>
+      <td>11.080957</td>
+    </tr>
+    <tr>
       <th>163009603</th>
       <td>398.673519</td>
       <td>10</td>
@@ -206,18 +213,11 @@
       <td>11.074264</td>
     </tr>
     <tr>
-      <th>Fata</th>
-      <td>616.005784</td>
-      <td>18</td>
-      <td>56</td>
-      <td>11.000103</td>
-    </tr>
-    <tr>
-      <th>J E I M A R I</th>
-      <td>670.055101</td>
-      <td>70</td>
-      <td>61</td>
-      <td>10.984510</td>
+      <th>MidOne</th>
+      <td>330.625639</td>
+      <td>9</td>
+      <td>30</td>
+      <td>11.020855</td>
     </tr>
     <tr>
       <th>Naive-</th>
@@ -255,6 +255,13 @@
       <td>10.873645</td>
     </tr>
     <tr>
+      <th>Chris Luck</th>
+      <td>162.313095</td>
+      <td>30</td>
+      <td>15</td>
+      <td>10.820873</td>
+    </tr>
+    <tr>
       <th>BoraNija</th>
       <td>64.832196</td>
       <td>16</td>
@@ -283,18 +290,11 @@
       <td>10.728684</td>
     </tr>
     <tr>
-      <th>Timado</th>
-      <td>289.408166</td>
+      <th>MagicaL</th>
+      <td>542.703300</td>
       <td>30</td>
-      <td>27</td>
-      <td>10.718821</td>
-    </tr>
-    <tr>
-      <th>MidOne</th>
-      <td>385.061718</td>
-      <td>12</td>
-      <td>36</td>
-      <td>10.696159</td>
+      <td>51</td>
+      <td>10.641241</td>
     </tr>
     <tr>
       <th>k`wonderkid</th>
@@ -311,18 +311,18 @@
       <td>10.572715</td>
     </tr>
     <tr>
+      <th>Topson</th>
+      <td>433.257317</td>
+      <td>15</td>
+      <td>41</td>
+      <td>10.567252</td>
+    </tr>
+    <tr>
       <th>Pingvincek</th>
       <td>211.194844</td>
       <td>9</td>
       <td>20</td>
       <td>10.559742</td>
-    </tr>
-    <tr>
-      <th>Topson</th>
-      <td>526.062072</td>
-      <td>15</td>
-      <td>50</td>
-      <td>10.521241</td>
     </tr>
     <tr>
       <th>ChYuaN</th>
@@ -339,18 +339,18 @@
       <td>10.486247</td>
     </tr>
     <tr>
+      <th>MATUMBAMAN</th>
+      <td>238.770871</td>
+      <td>6</td>
+      <td>23</td>
+      <td>10.381342</td>
+    </tr>
+    <tr>
       <th>Sooths</th>
       <td>72.476919</td>
       <td>10</td>
       <td>7</td>
       <td>10.353846</td>
-    </tr>
-    <tr>
-      <th>Chris Luck</th>
-      <td>195.990670</td>
-      <td>40</td>
-      <td>19</td>
-      <td>10.315298</td>
     </tr>
     <tr>
       <th>Ori</th>
@@ -367,6 +367,13 @@
       <td>10.291722</td>
     </tr>
     <tr>
+      <th>qojqva</th>
+      <td>503.501073</td>
+      <td>15</td>
+      <td>49</td>
+      <td>10.275532</td>
+    </tr>
+    <tr>
       <th>` AlaCrity -</th>
       <td>122.906812</td>
       <td>10</td>
@@ -381,18 +388,18 @@
       <td>10.234291</td>
     </tr>
     <tr>
-      <th>MATUMBAMAN</th>
-      <td>326.766601</td>
-      <td>9</td>
-      <td>32</td>
-      <td>10.211456</td>
+      <th>Handsken</th>
+      <td>51.075541</td>
+      <td>3</td>
+      <td>5</td>
+      <td>10.215108</td>
     </tr>
     <tr>
-      <th>qojqva</th>
-      <td>590.948902</td>
-      <td>18</td>
-      <td>58</td>
-      <td>10.188774</td>
+      <th>Timado</th>
+      <td>172.282056</td>
+      <td>30</td>
+      <td>17</td>
+      <td>10.134239</td>
     </tr>
     <tr>
       <th>Nisha</th>
@@ -402,25 +409,18 @@
       <td>10.107725</td>
     </tr>
     <tr>
-      <th>G</th>
-      <td>382.316533</td>
-      <td>17</td>
-      <td>38</td>
-      <td>10.060961</td>
-    </tr>
-    <tr>
-      <th>Nix</th>
-      <td>280.002658</td>
-      <td>27</td>
-      <td>28</td>
-      <td>10.000095</td>
-    </tr>
-    <tr>
       <th>Robo-Z</th>
-      <td>417.139688</td>
+      <td>363.374641</td>
       <td>50</td>
-      <td>42</td>
-      <td>9.931897</td>
+      <td>36</td>
+      <td>10.093740</td>
+    </tr>
+    <tr>
+      <th>G</th>
+      <td>282.468740</td>
+      <td>14</td>
+      <td>28</td>
+      <td>10.088169</td>
     </tr>
     <tr>
       <th>GeneRaL</th>
@@ -449,13 +449,6 @@
       <td>60</td>
       <td>39</td>
       <td>9.821360</td>
-    </tr>
-    <tr>
-      <th>Pikachu</th>
-      <td>264.233672</td>
-      <td>14</td>
-      <td>27</td>
-      <td>9.786432</td>
     </tr>
     <tr>
       <th>Wisper</th>
@@ -556,6 +549,13 @@
       <td>9.270822</td>
     </tr>
     <tr>
+      <th>4dr &lt;3 Déia</th>
+      <td>148.141351</td>
+      <td>20</td>
+      <td>16</td>
+      <td>9.258834</td>
+    </tr>
+    <tr>
       <th>MagE-</th>
       <td>373.627647</td>
       <td>12</td>
@@ -577,20 +577,6 @@
       <td>9.015775</td>
     </tr>
     <tr>
-      <th>4dr &lt;3 Déia</th>
-      <td>206.641219</td>
-      <td>20</td>
-      <td>23</td>
-      <td>8.984401</td>
-    </tr>
-    <tr>
-      <th>kodos-</th>
-      <td>403.544926</td>
-      <td>20</td>
-      <td>45</td>
-      <td>8.967665</td>
-    </tr>
-    <tr>
       <th>Faker-</th>
       <td>188.178802</td>
       <td>30</td>
@@ -603,6 +589,27 @@
       <td>12</td>
       <td>13</td>
       <td>8.933341</td>
+    </tr>
+    <tr>
+      <th>Pikachu</th>
+      <td>151.343860</td>
+      <td>11</td>
+      <td>17</td>
+      <td>8.902580</td>
+    </tr>
+    <tr>
+      <th>kodos-</th>
+      <td>309.309937</td>
+      <td>20</td>
+      <td>35</td>
+      <td>8.837427</td>
+    </tr>
+    <tr>
+      <th>Iceberg</th>
+      <td>308.691334</td>
+      <td>22</td>
+      <td>35</td>
+      <td>8.819752</td>
     </tr>
     <tr>
       <th>94120026</th>
@@ -631,13 +638,6 @@
       <td>10</td>
       <td>17</td>
       <td>8.640231</td>
-    </tr>
-    <tr>
-      <th>Iceberg</th>
-      <td>336.961630</td>
-      <td>25</td>
-      <td>39</td>
-      <td>8.640042</td>
     </tr>
     <tr>
       <th>jiajia</th>
@@ -710,18 +710,18 @@
       <td>7.798624</td>
     </tr>
     <tr>
+      <th>Syuuu</th>
+      <td>100.743079</td>
+      <td>9</td>
+      <td>13</td>
+      <td>7.749468</td>
+    </tr>
+    <tr>
       <th>AlienManaBanana</th>
       <td>15.294522</td>
       <td>2</td>
       <td>2</td>
       <td>7.647261</td>
-    </tr>
-    <tr>
-      <th>Syuuu</th>
-      <td>135.570442</td>
-      <td>12</td>
-      <td>18</td>
-      <td>7.531691</td>
     </tr>
     <tr>
       <th>miggeL.Z</th>
